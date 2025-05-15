@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6825b49eb02d61479bd0ae3b"
+  },
+  "name": "Leadership",
+  "createdAt": {
+    "$date": "2025-05-15T09:32:14.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T09:32:14.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825b4aab02d61479bd0ae3d"
+  },
+  "name": "Product",
+  "createdAt": {
+    "$date": "2025-05-15T09:32:26.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T09:32:26.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825b4b3b02d61479bd0ae3f"
+  },
+  "name": "Design",
+  "createdAt": {
+    "$date": "2025-05-15T09:32:35.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T09:32:35.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825b4c9b02d61479bd0ae41"
+  },
+  "name": "Software Development",
+  "createdAt": {
+    "$date": "2025-05-15T09:32:57.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T09:32:57.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825b4d4b02d61479bd0ae43"
+  },
+  "name": "Podcasts",
+  "createdAt": {
+    "$date": "2025-05-15T09:33:08.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T09:33:08.474Z"
+  },
+  "__v": 0
+}]

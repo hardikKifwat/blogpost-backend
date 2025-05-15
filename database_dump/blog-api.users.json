@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6825af2d323767c1d82688b6"
+  },
+  "fullName": "shalini",
+  "email": "shalini@example.com",
+  "phoneNumber": "9876543210",
+  "password": "$2b$10$/2jZRjJg02CQniW0Erp2fuW6kGbrlmT9JBxD/EA/AamByWB2ilZyi",
+  "createdAt": {
+    "$date": "2025-05-15T09:09:01.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T09:09:01.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825af5f323767c1d82688bd"
+  },
+  "fullName": "shalini",
+  "email": "shalini@90.com",
+  "phoneNumber": "9876543219",
+  "password": "$2b$10$umP6EZkd4S.cjyVCKOJkAO8A6A0slPsZ2mTgeF5xjjD7E1WskqWoG",
+  "createdAt": {
+    "$date": "2025-05-15T09:09:51.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T09:09:51.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "fullName": "hardik silawat",
+  "email": "hardiksilawat@gmail.com",
+  "phoneNumber": "1029384756",
+  "password": "$2b$10$Wd8hD4ln6ydym9NWq1f0ueVE0LtKsQorslSAx.LybqFTMtQ5AVyv6",
+  "createdAt": {
+    "$date": "2025-05-15T10:57:17.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T10:57:17.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825cf6e17652d646b9c73f2"
+  },
+  "fullName": "hardik silawat",
+  "email": "hardik@kifwat.com",
+  "phoneNumber": "7865432345",
+  "password": "$2b$10$Vy/x4VDQWR43jwj/JEvE6OgVTBLJES1B6dwSLX7l7IbmgFEjcoz1S",
+  "createdAt": {
+    "$date": "2025-05-15T11:26:38.359Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T11:26:38.359Z"
+  },
+  "__v": 0
+}]

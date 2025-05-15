@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "6825bb5d80c48eda29ee1b89"
+  },
+  "title": "Bill Walsh leadership lessons",
+  "content": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+  "blog_image_url": "/uploads/1747303261358.jpg",
+  "category_name": {
+    "$oid": "6825b49eb02d61479bd0ae3b"
+  },
+  "author": {
+    "$oid": "6825af2d323767c1d82688b6"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T10:01:01.372Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T10:01:01.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825cbd817652d646b9c73de"
+  },
+  "title": "Podcast: Creating a better CX Community",
+  "content": "Starting a community doesn’t need to be complicated, but how do you get started?",
+  "blog_image_url": "/uploads/1747307479950.jpg",
+  "category_name": {
+    "$oid": "6825b4aab02d61479bd0ae3d"
+  },
+  "author": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T11:11:20.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T11:11:20.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825cc1c17652d646b9c73e0"
+  },
+  "title": "Our top 10 Javascript frameworks to use",
+  "content": "JavaScript frameworks make development easy with extensive features and functionalities.",
+  "blog_image_url": "/uploads/1747307548668.jpg",
+  "category_name": {
+    "$oid": "6825b4c9b02d61479bd0ae41"
+  },
+  "author": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T11:12:28.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T11:12:28.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825cc5317652d646b9c73e2"
+  },
+  "title": "PM mental models",
+  "content": "Mental models are simple expressions of complex processes or relationships.",
+  "blog_image_url": "/uploads/1747307603240.jpg",
+  "category_name": {
+    "$oid": "6825b4b3b02d61479bd0ae3f"
+  },
+  "author": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T11:13:23.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T11:13:23.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825cc7817652d646b9c73e4"
+  },
+  "title": "What is Wireframing?",
+  "content": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
+  "blog_image_url": "/uploads/1747307640513.jpg",
+  "category_name": {
+    "$oid": "6825b4d4b02d61479bd0ae43"
+  },
+  "author": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T11:14:00.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T11:14:00.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825dda103ac301234c2c85d"
+  },
+  "title": "What is Wireframing?",
+  "content": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
+  "blog_image_url": "/uploads/1747312033713.jpg",
+  "category_name": {
+    "$oid": "6825b4d4b02d61479bd0ae43"
+  },
+  "author": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T12:27:13.741Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T12:27:13.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825dda203ac301234c2c85f"
+  },
+  "title": "What is Wireframing?",
+  "content": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
+  "blog_image_url": "/uploads/1747312034968.jpg",
+  "category_name": {
+    "$oid": "6825b4d4b02d61479bd0ae43"
+  },
+  "author": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T12:27:14.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T12:27:14.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825dda703ac301234c2c861"
+  },
+  "title": "What is Wireframing?",
+  "content": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
+  "blog_image_url": "/uploads/1747312039272.jpg",
+  "category_name": {
+    "$oid": "6825b4d4b02d61479bd0ae43"
+  },
+  "author": {
+    "$oid": "6825c88d17652d646b9c73dc"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T12:27:19.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T12:27:19.275Z"
+  },
+  "__v": 0
+}]
